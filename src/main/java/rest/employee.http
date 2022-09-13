@@ -1,0 +1,14 @@
+GET http://localhost:8080/rest_day1_war_exploded/api/employee/highestpaid
+Accept: application/json
+
+###
+GET http://localhost:8080/rest_day1_war_exploded/api/employee/name/oscar
+Accept: application/json
+
+###
+GET http://localhost:8080/rest_day1_war_exploded/api/employee/1
+Accept: application/json
+
+###
+GET http://localhost:8080/rest_day1_war_exploded/api/employee/all
+Accept: application/json
